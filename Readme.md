@@ -5,7 +5,7 @@
 This is a Add on to the [Pro Sites](https://premium.wpmudev.org) plugin, it fixes issues caused by faulty urls in permalinks that can lead to PayPal checkout malfunctioning. 
 
 
-#### MU Plugin
+#### Usage
 
-  * Open up your `mu-plugins` folder for your WordPress Directory (or create one) usually located within the `wp-content` folder of your `public_html` folder. 
+  * Open up the `mu-plugins` folder in your WordPress Directory (or create one). Its usually located within the `wp-content` folder in the `public_html` folder.
   * Select the PHP file `pro-sites-ssl-fix.php` and place it into the `wp-content/mu-plugins` folder in your WordPress Directory. Thats it !!
