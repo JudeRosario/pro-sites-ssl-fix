@@ -4,7 +4,7 @@ Plugin Name: SSL URL Quick Fix
 Plugin URI: http://premium.wpmudev.org/project/pro-sites/
 Description: Fixes issues in Pro Sites with broken urls that cause 404s and block Paypal redirects
 Author: Jude (WPMU DEV)
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://premium.wpmudev.org/
 Text Domain: psts
 Domain Path: /pro-sites-files/languages/
